@@ -9,10 +9,10 @@ st.title('Movie Recommender')
 
 def fetch_poster(movie_id):
     response = requests.get(
-        'https://api.themoviedb.org/3/movie/{}?api_key=49dfa5b94da859git 9d208c15666605a366&language=en-US'.format(
+        'https://api.themoviedb.org/3/movie/{}?api_key=7082040c7c553ffff59a46ac82ba64ff&language=en-US'.format(
             movie_id))
     data = response.json()
-    # print(data)
+    print(data)
 
     return 'http://image.tmdb.org/t/p/w500/' + data['poster_path']
 
