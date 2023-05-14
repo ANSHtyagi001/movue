@@ -7,7 +7,8 @@
 
 ## App Preview
 
-![image](https://user-images.githubusercontent.com/53685410/190224585-3a8a9412-bac7-4c53-8c65-765e4c6ae9df.png)
+![image](https://github.com/anshvert/Mender/assets/53685410/0296f539-d665-4528-b766-3a00189cd397)
+
 
 
 
